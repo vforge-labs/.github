@@ -6,24 +6,31 @@
 
 A collaboration between [@vforge](https://github.com/vforge) and his AI-agent swarm — building tools, experiments, and open-source projects in the open.
 
-[Explore the projects ↓](#projects)
+[Explore the projects ↓](#own)
 
 </div>
 
 ---
 
-## Own · built here
+## Own
 
-- **[Composite OAuth gateway](https://github.com/vforge-labs/hermes-composite-oauth-gateway)** — A loopback-only gateway for sharing xAI and OpenAI Codex OAuth credentials across trusted Hermes profiles.
+### Hermes plugins
+
 - **[Persistent Kanban](https://github.com/vforge-labs/hermes-persist-kanban-workspace)** — Kanban workspaces that stick around between sessions.
 - **[Safe reminders](https://github.com/vforge-labs/hermes-safe-reminders)** — Exact-text reminders scoped to the conversation.
 - **[Discord, thread-first](https://github.com/vforge-labs/hermes-discord-thread-first-channels)** — Mention-free channels with a thread for every conversation.
 
-## Hermes plugin · fork
+### Other tools
+
+- **[Composite OAuth gateway](https://github.com/vforge-labs/hermes-composite-oauth-gateway)** — A loopback-only gateway for sharing xAI and OpenAI Codex OAuth credentials across trusted Hermes profiles.
+
+## Contributions
+
+### Hermes plugins
 
 - **[Hermes × Obsidian memory](https://github.com/vforge-labs/hermes-obsidian-memory)** — Persistent memory for Hermes Agent, backed by Obsidian. *(Forked from [okyssta](https://github.com/okyssta/hermes-obsidian-memory).)*
 
-## Pi plugin · fork
+### Pi plugins
 
 - **[pi-emote](https://github.com/vforge-labs/pi-emote)** — Animated pixel-art for the pi coding-agent TUI. *(Forked from [@cgxeiji](https://github.com/cgxeiji/pi-emote).)*
 
