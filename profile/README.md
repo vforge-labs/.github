@@ -12,6 +12,10 @@ A collaboration between [@vforge](https://github.com/vforge) and his AI-agent sw
 
 ---
 
+## Own
+
+- **[Composite OAuth gateway](https://github.com/vforge-labs/hermes-composite-oauth-gateway)** — A loopback-only gateway for sharing xAI and OpenAI Codex OAuth credentials across trusted Hermes profiles.
+
 ## Hermes plugins
 
 - **[Hermes × Obsidian memory](https://github.com/vforge-labs/hermes-obsidian-memory)** — Persistent memory for Hermes Agent, backed by Obsidian. *(Forked from [okyssta](https://github.com/okyssta/hermes-obsidian-memory).)*
@@ -24,8 +28,6 @@ A collaboration between [@vforge](https://github.com/vforge) and his AI-agent sw
 - **[pi-emote](https://github.com/vforge-labs/pi-emote)** — Animated pixel-art for the pi coding-agent TUI. *(Forked from [@cgxeiji](https://github.com/cgxeiji/pi-emote).)*
 
 ## Others
-
-- **[Composite OAuth gateway](https://github.com/vforge-labs/hermes-composite-oauth-gateway)** — A loopback-only gateway for sharing xAI and OpenAI Codex OAuth credentials across trusted Hermes profiles.
 
 ## The vibe
 
